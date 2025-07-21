@@ -42,7 +42,8 @@ This project provides a detailed analysis of **Amazon product sales** using **Po
 
 ## 🖼️ Screenshot
 
-![Dashboard Preview](./Screenshot.png)
+<img width="1321" height="740" alt="image" src="https://github.com/user-attachments/assets/f25ea0b3-a385-4970-99cd-822018902cd6" />
+
 
 ---
 
